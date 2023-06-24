@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1668006898 source:d:\pruebac\cajaregistradora\main.c
+	<stdio.h>
+	<stdint.h>
+	"productos.h"
+
+1668010674 source:d:\pruebac\cajaregistradora\productos.c
+	<stdio.h>
+	"productos.h"
+
+1668007842 d:\pruebac\cajaregistradora\productos.h
+
+1668010646 source:d:\pruebac\cajaregistradora\inventario.c
+	<stdio.h>
+	<string.h>
+	"productos.h"
+
